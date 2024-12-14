@@ -1,0 +1,12 @@
+# Environment
+.env
+.env*.local
+
+# dependencies
+/node_modules
+
+# Temp
+gitignore
+
+# System Files
+.DS_Store
